@@ -27,9 +27,15 @@ todas las etiquetas semánticas de html5 no funcionan con iexplorer 9 o anterior
 
 Estadísticas globales de navegadores:
 - gs.statcounter.com
-- caniuse
+
 
 Para etiquetas:
 - mozilla.developer
 - w3schools
 - w3c
+
+- caniuse
+- modernizr.com --> librería de javascript de soporte
+
+##Formularios
+<form action method name target enctype>
